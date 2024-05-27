@@ -9,4 +9,8 @@
 ###   }
 ### Arguments: While calling functions.
 
-###   let sum = add(arg1, arg2);
+###   let sum = add(arg1, arg2); 
+
+## React vs Vanilla JavaScript [ when should you learn react ]
+## How React ACTUALLY works (DEEP DIVE 2023)
+
